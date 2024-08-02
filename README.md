@@ -1,5 +1,5 @@
 # Datacamp-Cientista-de-dados-associado-em-Python
-Este repositório é dedicado aos materiais,exercícios e projetos do curso de Cientista de Dados oferecido pela plataforma DataCamp. O curso abrange uma ampla gama de tópicos essenciais para a ciência de dados, incluindo estatística, programação em Python e R, aprendizado de máquina, visualização de dados e muito mais.
+This repository is dedicated to the materials, exercises, and projects of the Data Scientist course offered by DataCamp. The course covers a wide range of essential data science topics, including statistics, Python and R programming, machine learning, data visualization, and more.
 
 <div align="center">
  
